@@ -1,0 +1,14 @@
+{
+  "name": "express_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Sujan Tamang",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
